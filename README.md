@@ -1,6 +1,6 @@
 ## Olá, eu sou Victor Galbiati
 
-Here are some ideas to get you started:
+Sobre mim:
 
 - 🔭 Hoje trabalho como Analista de TI
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
