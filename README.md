@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/victor-galbiati-roggeiro-242486164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-![Snake animation](https://github.com/victorgalbiati/victorgalbiati/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/victorgalbiati/victorgalbiati/blob/output/github-contribution-grid-snake.svg)
