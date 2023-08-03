@@ -3,8 +3,8 @@
 Sobre mim:
 
 - 🔭 Hoje trabalho como Analista de TI
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🔥  JavaScript │ React │ TypeScript │ Git │ HTML and CSS
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🔥  JavaScript │ React │ TypeScript │ Git │ | MySQL | HTML and CSS
 - 📫 Contate-me no e-mail: victorgalbiati@gmail.com
 
 <div align="center">
